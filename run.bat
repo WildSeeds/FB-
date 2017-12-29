@@ -1,0 +1,2 @@
+pyinstaller myuntitled.spec
+pause
